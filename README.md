@@ -9,6 +9,7 @@ This project is an artificial intelligence system that aims to identify anomalie
 Bu projenin amacı, beyin MR görüntüleri üzerinden anomali (tümör) tespiti yaparak doktorlara ve araştırmacılara destek olabilecek bir karar destek sistemi geliştirmektir. Aynı zamanda farklı algoritmaların performanslarını karşılaştırarak en verimli yapının belirlenmesi amaçlanmıştır.
 
 The aim of this project is to develop a decision support system that can support doctors and researchers by detecting anomalies (tumors) on brain MRI images. It is also aimed to determine the most efficient structure by comparing the performances of different algorithms.
+
 ---
 
 ## 🧪 Kullanılan Algoritmalar
