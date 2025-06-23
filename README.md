@@ -84,7 +84,7 @@ cd web
 python app.py
 ```
 
-3. Tarayıcınızdan http://localhost:5000 adresine giderek uygulamayı kullanabilirsiniz.
+3. Tarayıcınızdan ``` http://localhost:5000 ``` adresine giderek uygulamayı kullanabilirsiniz.
 
 ## 👨‍💻 Geliştirici
 
