@@ -89,12 +89,9 @@ python app.py
 ## 👨‍💻 Geliştirici
 
 **Arda Berk Koca**
-[GitHub Profilim](https://github.com/ArdaBerkKoca)
+[GitHub Profilim] -- (https://github.com/ArdaBerkKoca)
 
 ## 🧠 Kaynaklar
 
-[Brain Tumor MRI Dataset - Kaggle](https://www.kaggle.com/datasets/)
+[Brain Tumor MRI Dataset - Kaggle] -- (https://www.kaggle.com/datasets/)
 
-```
-
-```
